@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-**Project: Title:** HR Metrics Dashboard                                                                                                                                                                                  
+**Project Title:** HR Metrics Dashboard                                                                                                                                                                                  
 **Client:** HR Director
 
 **Project Link** https://public.tableau.com/app/profile/ash.algabsani/viz/HumanResourcesDashboard_17444934566790/HRlSummary
