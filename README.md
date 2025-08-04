@@ -7,7 +7,7 @@
 
 **Project Link** https://public.tableau.com/app/profile/ash.algabsani/viz/HumanResourcesDashboard_17444934566790/HRlSummary
 
-**Visualization tool:** Tableau                                                                                                                                                                                                        
+**Visualization Tool:** Tableau                                                                                                                                                                                                        
 **Data Source:** EXCEL
 
 **Project Description:**
