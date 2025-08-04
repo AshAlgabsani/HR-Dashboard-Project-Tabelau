@@ -10,7 +10,7 @@
 **Visualization Tool:** Tableau                                                                                                                                                                                                        
 **Data Source:** EXCEL
 
-**Project Description:**
+## Project Description
 **Led the end-to-end development of an interactive Tableau dashboard to provide the HR Director with real-time insights into employee turnover, hiring activity, and diversity trends.
 Conducted ETL on HR data to ensure data quality and consistency. Used Draw.io to design initial dashboard mockups and Notion for project planning and collaboration. 
 The dashboard supported strategic decision-making by consolidating key metrics into a single, intuitive interface aligned with business goals.**
