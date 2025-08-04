@@ -1,4 +1,4 @@
-# HR-Dashboard-Project-Tabelau
+# HR-Dashboard-Project-Tableau
 
 ## Project Overview
 
